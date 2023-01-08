@@ -1,9 +1,9 @@
 import React from 'react'
 
-function counter() {
+function Counter() {
   return (
     <div>counter</div>
   )
 }
 
-export default counter
+export default Counter
